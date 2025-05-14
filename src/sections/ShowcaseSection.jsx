@@ -49,22 +49,20 @@ const ShowcaseSection = () => {
           {/* LEFT */}
           <div className="first-project-wrapper" ref={project1Ref}>
             <div className="image-wrapper">
-              <img src="/images/project1.png" alt="Ryde" />
+              <img src="/images/project11.png" alt="Flappy-Bird" />
             </div>
             <div className="text-content">
               <h2>
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Earum
-                atque ab saepe deserunt aut obcaecati asperiores consequatur,
-                possimus consectetur odit.
+                This is a lot enhanced version of flappy bird including login
+                pages , google authorisation and much more ...
               </h2>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Veritatis minima iusto rem. Doloribus quaerat totam quod
-                consectetur commodi placeat officiis harum sed ea dignissimos
-                dolorum necessitatibus, unde distinctio perspiciatis amet
-                impedit, deserunt tempora inventore? Dignissimos ab quia quaerat
-                maiores assumenda aperiam, similique sapiente eius nulla
-                voluptas totam consequuntur enim doloribus.
+                Kshitij's Flappy Bird project is a modern reimagining of the
+                classic game, built with a focus on smooth gameplay, clean UI,
+                and multiplayer functionality. Originally developed in Python,
+                the game now features a sleek React-based login and signup
+                interface, replacing the traditional entry screen for a more
+                dynamic user experience.
               </p>
             </div>
           </div>
